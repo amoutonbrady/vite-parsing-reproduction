@@ -1,0 +1,29 @@
+{
+  "name": "vite-parsing-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --debug",
+    "build": "vite build --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoutonbrady/vite-parsing-reproduction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amoutonbrady/vite-parsing-reproduction/issues"
+  },
+  "homepage": "https://github.com/amoutonbrady/vite-parsing-reproduction#readme",
+  "dependencies": {
+    "solid-js": "^0.24.7",
+    "solid-meta": "^0.24.7"
+  },
+  "devDependencies": {
+    "vite": "^2.0.1",
+    "vite-plugin-solid": "^1.0.0"
+  }
+}
